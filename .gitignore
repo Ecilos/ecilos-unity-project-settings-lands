@@ -1,4 +1,5 @@
-# ProjectSettings files
+# ProjectSettings files to ignore.
+Packages/*/Settings.json
 ProjectSettings/FbxExportSettings.asset
 ProjectSettings/Packages/
 
